@@ -18,6 +18,10 @@ body {
   text-decoration-line: none;
 }
 
+:focus {
+    outline: none;
+}
+
 /* ROOT FONT STYLES */
 
 * {
